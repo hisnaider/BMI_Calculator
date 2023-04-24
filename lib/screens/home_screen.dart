@@ -20,7 +20,6 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
-    print(person.gender);
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.transparent,
